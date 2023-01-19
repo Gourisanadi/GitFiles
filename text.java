@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Class Add {
 
 	public int addition(int a,int b){
@@ -8,3 +9,6 @@ Class Add {
 		System.out.println(addition(a,b);
 	}
 	{
+=======
+
+>>>>>>> branch2
